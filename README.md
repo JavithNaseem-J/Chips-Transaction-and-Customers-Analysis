@@ -39,17 +39,6 @@ Install the dependencies using pip:
 pip install pandas numpy matplotlib seaborn plotly
 ```
 
-## Project Structure
-```
-chips-transactions-analysis/
-│
-├── data/   
-│   ├── QVI_transaction_data.csv
-│   └── QVI_purchase_behaviour.csv
-├── Chips_Transaction_Analysis.ipynb          
-└── README.md               
-```
-
 ## Methodology
 ### Data Loading and Cleaning:
 - Loaded the transaction and customer data CSV files into pandas DataFrames.
