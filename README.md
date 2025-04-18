@@ -57,7 +57,7 @@ pip install pandas numpy matplotlib seaborn plotly
 ## How to Run the Analysis
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/chips-transactions-analysis.git
+   git clone https://github.com/JavithNaseem-J/chips-transactions-analysis.git
    cd chips-transactions-analysis
    ```
 2. Ensure the `data` directory contains both CSV files (`QVI_transaction_data.csv` and `QVI_purchase_behaviour.csv`).
